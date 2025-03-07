@@ -1,0 +1,33 @@
+body{
+    background-color: #6577e0af;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#topo{
+    background-color: #000000e1;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+
+#topo a{
+    color: rgba(255, 255, 255, 0.822);
+    text-decoration: none;
+}
+
+#navbar ul{
+    display: flex;
+    list-style-type: none;
+}
+
+#navbar a{
+    padding: 10px;
+}
+
+#navbar a:hover{
+    background-color: #464545e1;
+    border-radius: 10px;
+}
