@@ -31,3 +31,13 @@ body{
     background-color: #464545e1;
     border-radius: 10px;
 }
+
+.conteudo-black{
+    color: antiquewhite;
+    background-color: black;
+}
+
+.conteudo-blue{
+    background-color: blue;
+}
+   
